@@ -1,0 +1,31 @@
+name: liquid_menu
+description: A new Flutter application.
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^0.1.2
+  provider: ^5.0.0
+  lottie: ^1.0.1
+  carousel_slider: ^3.0.0
+  flutter_tts: ^3.1.0
+  toast: ^0.1.5
+  shared_preferences: ^2.0.5
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - data/liquid.json
+
+

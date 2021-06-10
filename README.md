@@ -1,17 +1,28 @@
-# template
+# Fluid UI with Carousel.
 
 A new Flutter application.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+You are free to use this project.
 
-A few resources to get you started if this is your first Flutter project:
+![](https://imgflip.com/gif/5cqurk)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
 "# FluidUI-with-carousel" 
+
+Packages used:
+
+provider: ^5.0.0
+lottie: ^1.0.1
+carousel_slider: ^3.0.0
+flutter_tts: ^3.1.0
+toast: ^0.1.5
+shared_preferences: ^2.0.5
+
+Inspired by:
+
+Cuberto Design
+https://www.youtube.com/watch?v=MDRRVHPQlus
+
+Twistbase
+https://youtu.be/zS3ryJ7to8E
