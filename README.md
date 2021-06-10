@@ -1,16 +1,12 @@
 # Fluid UI with Carousel.
 
-A new Flutter application.
+A button to see the desired content that pops out from the card as like a liquid motion. This project includes a Google text to speech to hear the subject and the translated word in english will pop-out from the card.
 
-## Getting Started
+## You are free to use this project.
 
-You are free to use this project.
+![Project Overview](https://i.imgflip.com/5cqurk.gif)
 
-![](https://imgflip.com/gif/5cqurk)
-
-"# FluidUI-with-carousel" 
-
-Packages used:
+### Packages used:
 
 provider: ^5.0.0
 lottie: ^1.0.1
@@ -19,7 +15,7 @@ flutter_tts: ^3.1.0
 toast: ^0.1.5
 shared_preferences: ^2.0.5
 
-Inspired by:
+### Inspired by:
 
 Cuberto Design
 https://www.youtube.com/watch?v=MDRRVHPQlus
